@@ -1,6 +1,5 @@
 # Energy-Analytics-and-Development-of-Machine-Learning-Models-to-Predict-Energy-Behavior-of-Consumers
 
-`Present`
 
 - the summery of project:
 
